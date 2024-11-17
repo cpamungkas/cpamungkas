@@ -1,10 +1,12 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm kangcp!
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Your+Cool+Banner+Here) <!-- Ganti ini dengan link banner lo -->
+<!--![Profile Banner](https://via.placeholder.com/1200x400?text=Your+Cool+Banner+Here) -->
+
+![Kangcp's Profile views](https://komarev.com/ghpvc/?username=cpamungkas&style=flat&color=blueviolet)<br>
 
 ### 🚀 About Me:
 - 👨‍💻 **Full Stack Developer** | **Tech Enthusiast** | **Open Source Contributor**
-- 🔭 Currently working on **[Project Name](https://github.com/yourusername/projectname)**.
+- 🔭 Currently working on **[Project Maintenance](https://github.com/cpamungkas/)**.
 - 🌱 Always learning new things. Currently exploring **Rust** and **Blockchain Tech**.
 - ✍️ I write about tech stuff at **[Medium/Blog Link](https://medium.com)**.
 - 🎮 Gamer by night, coder by day.
@@ -41,20 +43,9 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cpamungkas&theme=algolia" alt="Most Commit Langs">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpamungkas&layout=compact&theme=radical" alt="Top Langs">
-      </td>
-    </tr>  
-    <tr>
-      <td>
         <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cpamungkas&theme=algolia&utcOffset=8">
       </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=cpamungkas&show_icons=true&theme=radical" alt="GitHub Stats">
-      </td>
-      <td>       
-         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cpamungkas&theme=algolia" alt="Stats">
-      </td>
-    </tr>
+    </tr>      
   </tbody>
 </table>
 
@@ -63,21 +54,25 @@
 
 ### ☕ Support Me:
 If you love my work, consider supporting me on:
-- [Saweria](https://saweria.co/kangcp)  
-  <img src="https://img.shields.io/badge/-Saweria-%23FF5E5B?logo=ko-fi&logoColor=white&style=flat-square" alt="Saweria">
-- [Trakteer](https://trakteer.id/kangcp)  
-  <img src="https://img.shields.io/badge/-Trakteer-%23E0005A?logo=ko-fi&logoColor=white&style=flat-square" alt="Trakteer">
+
+<a href="https://saweria.co/kangcp" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ---
 
 ### 🔗 Connect With Me:
 <p>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram"></a>
+  <!--<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>-->
+  <a href="https://twitter.com/cpamungkas"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter"></a>
+  <a href="https://instagram.com/cpamungkas"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram"></a>
 </p>
 
 ---
 
 > 💡 *"The best way to predict the future is to create it."*  
 > - Peter Drucker
+
+
+<!--## License
+[MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
+
+Copyright (c) 2024 kangcp-->
